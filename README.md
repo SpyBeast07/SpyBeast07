@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @SpyBeast07 and my name is Kushagra Gupta.
 - 👀 I’m interested in making some new projects.
-- 📫 To reach me you can follow me on above handels:
-  - LinkedIn - https://www.linkedin.com/in/kushagra-gupta-0a4b49239/
-  - Email - kushagra7503@gmail.com
 
 
 
