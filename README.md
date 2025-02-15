@@ -13,60 +13,144 @@
 - :nerd_face: Always `learning new things` and excited to grow.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 
+## Connect with me on
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Programming Profiles
-<p align="center">
-	<a href="https://leetcode.com/kushagra7503/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.codechef.com/users/jk21024"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>   
-<!-- 	<a href="https://www.codingame.com/profile/b81ad5eac789bb01138b363d44f7ae8a7807835" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50"> -->
-</p>
-
+<table>
+	<td align="center">
+		<a href="https://www.linkedin.com/in/kushagra-gupta-0a4b49239/" target="_blank" rel="noreferrer">
+			<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="40" height="40"/>
+			<br/>LinkedIn
+		</a>
+	</td>
+	<td align="center">
+		<a href="https://github.com/SpyBeast07" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>
+			<br/>GitHub
+		</a>
+	</td>
+	<td align="center">
+		<a href="mailto:kushagra7503@gmail.com" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="40" height="40"/>
+			<br/>E-mail
+		</a>
+	</td>
+</table>
 
 ## 🛠️ Skills
 
-<div align="left">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="40" width="52" alt="java logo"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" width="52" alt="cplusplus logo"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" width="52" alt="python logo"/>
-</div>
-<div align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-<!--     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="40" width="52" alt="bootstrap logo"  /> -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  /> -->
-<!--     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" width="52" alt="react logo"  /> -->
-<!--     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="40" width="52" alt="Nextjs logo"  /> -->
-</div>
-<div align="left">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="40" width="52" alt="bash logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" width="52" alt="git logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" width="52" alt="github logo"  />
-<!--     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" width="52" alt="docker logo"  /> -->
-</div>
-<div align="left">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" width="52" alt="linux logo"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" height="40" width="52" alt="mac logo"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="40" width="52" alt="windows logo"/>
-</div>
+<table>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>
+			<br/>Java
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" width="40" height="40"/>
+			<br/>CPP
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
+			<br/>Python
+		</a>
+	</td>
+</table>
 
-## Connect with me on-
-<div align="left">
-    <a href="https://www.linkedin.com/in/kushagra-gupta-0a4b49239/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-    </a>
-    <a href="mailto:kushagra7503@gmail.com" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="56" height="44" alt="gmail logo"/>
-    </a>
-    <a href="https://github.com/SpyBeast07" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="56" height="44" alt="github logo"/>
-    </a>
-<div/>
+<table>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>HTML
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+			<br/>CSS
+		</a>
+	</td>
+</table>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px></picture> Stats
+<table>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/>
+			<br/>Bash
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
+			<br/>Git
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>
+			<br/>Github
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
+			<br/>Docker
+		</a>
+	</td>
+</table>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyBeast07&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SpyBeast07&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
+<table>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+			<br/>Linux
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" alt="iOS" width="40" height="40"/>
+			<br/>iOS
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" width="40" height="40"/>
+			<br/>Windows
+		</a>
+	</td>
+</table>
 
-</br>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Programming Profiles
+
+<table>
+	<td align="center">
+		<a href="https://leetcode.com/kushagra7503/" target="_blank" rel="noreferrer">
+			<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="40" height="40"/>
+			<br/>LeetCode
+		</a>
+	</td>
+	<td align="center">
+		<a href="https://www.codechef.com/users/jk21024" target="_blank" rel="noreferrer">
+			<img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" width="40" height="40"/>
+			<br/>CodeChef
+		</a>
+	</td>
+<!-- 	<td align="center">
+		<a href="https://www.codingame.com/profile/ee6cf58c6b509e7edb8f1935d5a7ac049118445" target="_blank" rel="noreferrer">
+			<img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="CodingGame" width="40" height="40"/>
+			<br/>CodingGame
+		</a>
+	</td> -->
+</table>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SpyBeast07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyBeast07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SpyBeast07&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SpyBeast07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
