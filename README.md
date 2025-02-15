@@ -10,8 +10,8 @@
 ## Languages
 
 <div align="left">
-<!--     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="40" width="52" alt="c logo"  /> -->
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" width="52" alt="cplusplus logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="40" width="52" alt="java logo"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" width="52" alt="cplusplus logo"/>
 </div>
 <div align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
