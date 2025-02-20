@@ -25,12 +25,6 @@
 		</a>
 	</td>
 	<td align="center">
-		<a href="https://github.com/SpyBeast07" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>
-			<br/>GitHub
-		</a>
-	</td>
-	<td align="center">
 		<a href="mailto:kushagra7503@gmail.com" target="_blank" rel="noreferrer">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="40" height="40"/>
 			<br/>E-mail
