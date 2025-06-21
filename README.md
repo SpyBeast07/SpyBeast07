@@ -35,6 +35,7 @@
 ## 🛠️ Skills
 
 <table>
+	Programming Languages
 	<td align="center">
 		<a href="" target="_blank" rel="noreferrer">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>
@@ -56,6 +57,7 @@
 </table>
 
 <table>
+	Frontend Development
 	<td align="center">
 		<a href="" target="_blank" rel="noreferrer">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -68,13 +70,156 @@
 			<br/>CSS
 		</a>
 	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="CSS" width="40" height="40"/>
+			<br/>React
+		</a>
+	</td>
 </table>
 
 <table>
+	Backend Development
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+			<br/>node
+		</a>
+	</td>
+</table>
+
+<table>
+	Mobile App Development
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>Kotlin
+		</a>
+	</td>
+</table>
+
+<table>
+	AI/ML
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>PyTorch
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>Pandas
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>SciKit Learn
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>matplotlib
+		</a>
+	</td>
+</table>
+
+<table>
+	Database
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>mongoDB
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>MySQL
+		</a>
+	</td>
+</table>
+
+<table>
+	Data Visualization
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>Grafana
+		</a>
+	</td>
+</table>
+
+<table>
+	Devops
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
+			<br/>Docker
+		</a>
+	</td>
 	<td align="center">
 		<a href="" target="_blank" rel="noreferrer">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/>
 			<br/>Bash
+		</a>
+	</td>
+</table>
+
+<table>
+	Backend as a Service(BaaS)
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>firebase
+		</a>
+	</td>
+</table>
+
+<table>
+	Testing
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>cypress
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>mocha
+		</a>
+	</td>
+</table>
+
+<table>
+	Software
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>MATLAB
+		</a>
+	</td>
+</table>
+
+<table>
+	Static Site Generators
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="HTML" width="40" height="40"/>
+			<br/>NEXT.js
+		</a>
+	</td>
+</table>
+
+<table>
+	Other
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+			<br/>Linux
 		</a>
 	</td>
 	<td align="center">
@@ -91,21 +236,6 @@
 	</td>
 	<td align="center">
 		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
-			<br/>Docker
-		</a>
-	</td>
-</table>
-
-<table>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
-			<br/>Linux
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" alt="iOS" width="40" height="40"/>
 			<br/>iOS
 		</a>
@@ -114,6 +244,12 @@
 		<a href="" target="_blank" rel="noreferrer">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" width="40" height="40"/>
 			<br/>Windows
+		</a>
+	</td>
+	<td align="center">
+		<a href="" target="_blank" rel="noreferrer">
+			<img src="" alt="HTML" width="40" height="40"/>
+			<br/>Arduino
 		</a>
 	</td>
 </table>
