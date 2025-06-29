@@ -19,7 +19,7 @@
 
 <table>
 	<td align="center">
-		<a href="https://www.linkedin.com/in/kushagra-gupta-0a4b49239/" target="_blank" rel="noreferrer">
+		<a href="https://www.linkedin.com/in/spybeast/" target="_blank" rel="noreferrer">
 			<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="40" height="40"/>
 			<br/>LinkedIn
 		</a>
