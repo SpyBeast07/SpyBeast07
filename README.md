@@ -11,11 +11,12 @@
 - :school: I am a `Computer Science Undergraduate` at [JK Lakshmipat University](https://jklu.edu.in/)
 	- Former Visiting Student at `IIIT Hyderabad` for 7th semester.
 	- Former Visiting Student at `IIT Gandhinagar` for 3rd semester.
+
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codechef`, `Leetcode`.
 - :student: In AI & ML field.
 - :nerd_face: Always `learning new things` and excited to grow.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./src/Kushagra_Gupta_Resume.pdf).
+- :thinking: Want to know more, this is [MY RESUME](./src/Kushagra_Gupta_Resume.pdf).
+<!-- - :computer: I am a competitive programmer at `Codechef`, `Leetcode`. -->
 
 ## Connect with me on
 
