@@ -9,6 +9,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - :school: I am a `Computer Science Undergraduate` at [JK Lakshmipat University](https://jklu.edu.in/)
+	- Former Visiting Student at `IIIT Hyderabad` for 7th semester.
+	- Former Visiting Student at `IIT Gandhinagar` for 3rd semester.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codechef`, `Leetcode`.
 - :student: In AI & ML field.
