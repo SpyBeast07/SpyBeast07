@@ -13,7 +13,7 @@
 - :computer: I am a competitive programmer at `Codechef`, `Leetcode`.
 - :student: In AI & ML field.
 - :nerd_face: Always `learning new things` and excited to grow.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./src/Kushagra_Gupta_Resume.pdf).
 
 ## Connect with me on
 
