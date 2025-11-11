@@ -15,8 +15,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: In AI & ML field.
 - :nerd_face: Always `learning new things` and excited to grow.
+- :computer: I am a competitive programmer at [`Codechef`](https://www.codechef.com/users/jk21024), [`Leetcode`](https://leetcode.com/u/kushagra7503/).
 - :thinking: Want to know more, this is [MY RESUME](./src/Kushagra_Gupta_Resume.pdf).
-<!-- - :computer: I am a competitive programmer at `Codechef`, `Leetcode`. -->
 
 ## Connect with me on
 
