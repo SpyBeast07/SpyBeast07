@@ -31,66 +31,66 @@
 
 ## 🛠️ Skills
 
-**Languages**  
-<img src="src/skill icons/python.svg" alt="Python" width="40" height="40"/>
-<img src="src/skill icons/c++.svg" alt="C++" width="40" height="40"/>
-<img src="src/skill icons/java.svg" alt="Java" width="40" height="40"/>
-<img src="src/skill icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-<img src="src/skill icons/bash.svg" alt="Bash" width="40" height="40"/>
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Frontend**  
-<img src="src/skill icons/html.svg" alt="HTML" width="40" height="40"/>
-<img src="src/skill icons/css.svg" alt="CSS" width="40" height="40"/>
-<img src="src/skill icons/react.svg" alt="React" width="40" height="40"/>
-<img src="src/skill icons/react-hook-form.svg" alt="React Hook Form" width="40" height="40"/>
-<img src="src/skill icons/tanstack.svg" alt="TanStack" width="40" height="40"/>
-<img src="src/skill icons/axios.svg" alt="Axios" width="40" height="40"/>
-<img src="src/skill icons/zod.svg" alt="Zod" width="40" height="40"/>
-<img src="src/skill icons/zustand.svg" alt="Zustand" width="40" height="40"/>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge)
 
 **Backend & APIs**  
-<img src="src/skill icons/node.svg" alt="Node.js" width="40" height="40"/>
-<img src="src/skill icons/fastapi.svg" alt="FastAPI" width="40" height="40"/>
-<img src="src/skill icons/rest-api.svg" alt="REST API" width="40" height="40"/>
-<img src="src/skill icons/jwt.svg" alt="JWT" width="40" height="40"/>
-<img src="src/skill icons/sqlalchemy.svg" alt="SQLAlchemy" width="40" height="40"/>
-<img src="src/skill icons/alembic.svg" alt="Alembic" width="40" height="40"/>
-<img src="src/skill icons/pydantic.svg" alt="Pydantic" width="40" height="40"/>
-<img src="src/skill icons/asgi-uvicorn.svg" alt="Uvicorn" width="40" height="40"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-3C3C3C?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![Uvicorn](https://img.shields.io/badge/ASGI_(Uvicorn)-499848?style=for-the-badge)
 
 **Data, ML & Visualization**  
-<img src="src/skill icons/pytorch.svg" alt="PyTorch" width="40" height="40"/>
-<img src="src/skill icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="src/skill icons/numpy.svg" alt="NumPy" width="40" height="40"/>
-<img src="src/skill icons/pandas.svg" alt="Pandas" width="40" height="40"/>
-<img src="src/skill icons/scikit-learn.svg" alt="Scikit Learn" width="40" height="40"/>
-<img src="src/skill icons/scipy.svg" alt="SciPy" width="40" height="40"/>
-<img src="src/skill icons/opencv.svg" alt="OpenCV" width="40" height="40"/>
-<img src="src/skill icons/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 **Databases, Cloud & Monitoring**  
-<img src="src/skill icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-<img src="src/skill icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-<img src="src/skill icons/postgres.svg" alt="Postgres" width="40" height="40"/>
-<img src="src/skill icons/docker.svg" alt="Docker" width="40" height="40"/>
-<img src="src/skill icons/firebase.svg" alt="Firebase" width="40" height="40"/>
-<img src="src/skill icons/gcp.svg" alt="GCP" width="40" height="40"/>
-<img src="src/skill icons/vercel.svg" alt="Vercel" width="40" height="40"/>
-<img src="src/skill icons/prometheus.svg" alt="Prometheus" width="40" height="40"/>
-<img src="src/skill icons/grafana.svg" alt="Grafana" width="40" height="40"/>
-<img src="src/skill icons/elasticsearch.svg" alt="Elasticsearch" width="40" height="40"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-**Tools & Platforms**  
-<img src="src/skill icons/git.svg" alt="Git" width="40" height="40"/>
-<img src="src/skill icons/github.svg" alt="GitHub" width="40" height="40"/>
-<img src="src/skill icons/postman.svg" alt="Postman" width="40" height="40"/>
-<img src="src/skill icons/cypress.svg" alt="Cypress" width="40" height="40"/>
-<img src="src/skill icons/mocha.svg" alt="Mocha" width="40" height="40"/>
-<img src="src/skill icons/figma.svg" alt="Figma" width="40" height="40"/>
-<img src="src/skill icons/latex.svg" alt="LaTeX" width="40" height="40"/>
-<img src="src/skill icons/streamlit.svg" alt="Streamlit" width="40" height="40"/>
-<img src="src/skill icons/excel.svg" alt="Excel" width="40" height="40"/>
-<img src="src/skill icons/notion.svg" alt="Notion" width="40" height="40"/>
+**Tools & Productivity**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Programming Profiles
 
