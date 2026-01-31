@@ -9,253 +9,88 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - :school: I am a `Computer Science Undergraduate` at [JK Lakshmipat University](https://jklu.edu.in/)
-	- Former Visiting Student at `IIIT Hyderabad` for 7th semester.
+	- Former Visiting Student at `IIIT Hyderabad` for 7th semester with 7.3 CGPA.
 	- Former Visiting Student at `IIT Gandhinagar` for 3rd semester.
 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: In AI & ML field.
 - :nerd_face: Always `learning new things` and excited to grow.
-- :computer: I am a competitive programmer at [`Codechef`](https://www.codechef.com/users/jk21024), [`Leetcode`](https://leetcode.com/u/kushagra7503/).
-- :thinking: Want to know more, this is [MY RESUME](./src/Kushagra_Gupta_Resume.pdf).
+- :computer: I do competitive programming sometimes at [`Codechef`](https://www.codechef.com/users/jk21024), [`Leetcode`](https://leetcode.com/u/kushagra7503/).
+- :thinking: Want to know more, here is [MY RESUME](./src/Kushagra_Gupta_Resume.pdf).
+<!-- - :globe_with_meridians: My personal website is [`HERE`](https://kushagra7503.github.io/Portfolio/). -->
 
 ## Connect with me on
 
-<table>
-	<td align="center">
-		<a href="https://www.linkedin.com/in/spybeast/" target="_blank" rel="noreferrer">
-			<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="40" height="40"/>
-			<br/>LinkedIn
-		</a>
-	</td>
-	<td align="center">
-		<a href="mailto:kushagra7503@gmail.com" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="40" height="40"/>
-			<br/>E-mail
-		</a>
-	</td>
-</table>
+<a href="https://www.linkedin.com/in/spybeast/" target="_blank" rel="noreferrer">
+  <img src="src/skill icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:kggupta.work@gmail.com" target="_blank" rel="noreferrer">
+  <img src="src/skill icons/gmail-dark.svg" alt="Gmail" width="40" height="40"/>
+</a>
 
 ## 🛠️ Skills
 
-<table>
-	Programming Languages
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>
-			<br/>Java
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" width="40" height="40"/>
-			<br/>CPP
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
-			<br/>Python
-		</a>
-	</td>
-</table>
+**Languages**  
+<img src="src/skill icons/python.svg" alt="Python" width="40" height="40"/>
+<img src="src/skill icons/c++.svg" alt="C++" width="40" height="40"/>
+<img src="src/skill icons/java.svg" alt="Java" width="40" height="40"/>
+<img src="src/skill icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+<img src="src/skill icons/bash.svg" alt="Bash" width="40" height="40"/>
 
-<table>
-	Frontend Development
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>HTML
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-			<br/>CSS
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="CSS" width="40" height="40"/>
-			<br/>React
-		</a>
-	</td>
-</table>
+**Frontend**  
+<img src="src/skill icons/html.svg" alt="HTML" width="40" height="40"/>
+<img src="src/skill icons/css.svg" alt="CSS" width="40" height="40"/>
+<img src="src/skill icons/react.svg" alt="React" width="40" height="40"/>
+<img src="src/skill icons/react-hook-form.svg" alt="React Hook Form" width="40" height="40"/>
+<img src="src/skill icons/tanstack.svg" alt="TanStack" width="40" height="40"/>
+<img src="src/skill icons/axios.svg" alt="Axios" width="40" height="40"/>
+<img src="src/skill icons/zod.svg" alt="Zod" width="40" height="40"/>
+<img src="src/skill icons/zustand.svg" alt="Zustand" width="40" height="40"/>
 
-<table>
-	Backend Development
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-			<br/>node
-		</a>
-	</td>
-</table>
+**Backend & APIs**  
+<img src="src/skill icons/node.svg" alt="Node.js" width="40" height="40"/>
+<img src="src/skill icons/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+<img src="src/skill icons/rest-api.svg" alt="REST API" width="40" height="40"/>
+<img src="src/skill icons/jwt.svg" alt="JWT" width="40" height="40"/>
+<img src="src/skill icons/sqlalchemy.svg" alt="SQLAlchemy" width="40" height="40"/>
+<img src="src/skill icons/alembic.svg" alt="Alembic" width="40" height="40"/>
+<img src="src/skill icons/pydantic.svg" alt="Pydantic" width="40" height="40"/>
+<img src="src/skill icons/asgi-uvicorn.svg" alt="Uvicorn" width="40" height="40"/>
 
-<table>
-	Mobile App Development
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>Kotlin
-		</a>
-	</td>
-</table>
+**Data, ML & Visualization**  
+<img src="src/skill icons/pytorch.svg" alt="PyTorch" width="40" height="40"/>
+<img src="src/skill icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="src/skill icons/numpy.svg" alt="NumPy" width="40" height="40"/>
+<img src="src/skill icons/pandas.svg" alt="Pandas" width="40" height="40"/>
+<img src="src/skill icons/scikit-learn.svg" alt="Scikit Learn" width="40" height="40"/>
+<img src="src/skill icons/scipy.svg" alt="SciPy" width="40" height="40"/>
+<img src="src/skill icons/opencv.svg" alt="OpenCV" width="40" height="40"/>
+<img src="src/skill icons/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
 
-<table>
-	AI/ML
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>PyTorch
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>Pandas
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>SciKit Learn
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>matplotlib
-		</a>
-	</td>
-</table>
+**Databases, Cloud & Monitoring**  
+<img src="src/skill icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+<img src="src/skill icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+<img src="src/skill icons/postgres.svg" alt="Postgres" width="40" height="40"/>
+<img src="src/skill icons/docker.svg" alt="Docker" width="40" height="40"/>
+<img src="src/skill icons/firebase.svg" alt="Firebase" width="40" height="40"/>
+<img src="src/skill icons/gcp.svg" alt="GCP" width="40" height="40"/>
+<img src="src/skill icons/vercel.svg" alt="Vercel" width="40" height="40"/>
+<img src="src/skill icons/prometheus.svg" alt="Prometheus" width="40" height="40"/>
+<img src="src/skill icons/grafana.svg" alt="Grafana" width="40" height="40"/>
+<img src="src/skill icons/elasticsearch.svg" alt="Elasticsearch" width="40" height="40"/>
 
-<table>
-	Database
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>mongoDB
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>MySQL
-		</a>
-	</td>
-</table>
-
-<table>
-	Data Visualization
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>Grafana
-		</a>
-	</td>
-</table>
-
-<table>
-	Devops
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
-			<br/>Docker
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/>
-			<br/>Bash
-		</a>
-	</td>
-</table>
-
-<table>
-	Backend as a Service(BaaS)
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>firebase
-		</a>
-	</td>
-</table>
-
-<table>
-	Testing
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>cypress
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>mocha
-		</a>
-	</td>
-</table>
-
-<table>
-	Software
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>MATLAB
-		</a>
-	</td>
-</table>
-
-<table>
-	Static Site Generators
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="HTML" width="40" height="40"/>
-			<br/>NEXT.js
-		</a>
-	</td>
-</table>
-
-<table>
-	Other
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
-			<br/>Linux
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
-			<br/>Git
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>
-			<br/>Github
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" alt="iOS" width="40" height="40"/>
-			<br/>iOS
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" width="40" height="40"/>
-			<br/>Windows
-		</a>
-	</td>
-	<td align="center">
-		<a href="" target="_blank" rel="noreferrer">
-			<img src="" alt="HTML" width="40" height="40"/>
-			<br/>Arduino
-		</a>
-	</td>
-</table>
+**Tools & Platforms**  
+<img src="src/skill icons/git.svg" alt="Git" width="40" height="40"/>
+<img src="src/skill icons/github.svg" alt="GitHub" width="40" height="40"/>
+<img src="src/skill icons/postman.svg" alt="Postman" width="40" height="40"/>
+<img src="src/skill icons/cypress.svg" alt="Cypress" width="40" height="40"/>
+<img src="src/skill icons/mocha.svg" alt="Mocha" width="40" height="40"/>
+<img src="src/skill icons/figma.svg" alt="Figma" width="40" height="40"/>
+<img src="src/skill icons/latex.svg" alt="LaTeX" width="40" height="40"/>
+<img src="src/skill icons/streamlit.svg" alt="Streamlit" width="40" height="40"/>
+<img src="src/skill icons/excel.svg" alt="Excel" width="40" height="40"/>
+<img src="src/skill icons/notion.svg" alt="Notion" width="40" height="40"/>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Programming Profiles
 
