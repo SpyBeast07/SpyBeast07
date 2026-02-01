@@ -17,7 +17,7 @@
 - :nerd_face: Always `learning new things` and excited to grow.
 - :computer: I do competitive programming sometimes at [`Codechef`](https://www.codechef.com/users/jk21024), [`Leetcode`](https://leetcode.com/u/kushagra7503/).
 - :thinking: Want to know more, here is [MY RESUME](./src/Kushagra_Gupta_Resume.pdf).
-- :globe_with_meridians: My personal website is [`HERE`](https://spybeast07.github.io/Kushagra07.github.io/).
+- :globe_with_meridians: My personal website is [`HERE`](https://portfolio-murex-seven-86.vercel.app).
 
 ## Connect with me on
 
