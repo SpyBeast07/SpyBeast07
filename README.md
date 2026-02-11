@@ -116,11 +116,13 @@
 </table>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SpyBeast07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SpyBeast07&theme=neon-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyBeast07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyBeast07&theme=neon-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SpyBeast07&theme=dark&hide_border=false)<br/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SpyBeast07?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=SpyBeast07&theme=elegant&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SpyBeast07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SpyBeast07&theme=neon-dark&no-frame=false&no-bg=true&margin-w=4)
