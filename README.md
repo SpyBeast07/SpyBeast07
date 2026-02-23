@@ -179,8 +179,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SpyBeast07&theme=neon-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyBeast07&theme=neon-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SpyBeast07?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=SpyBeast07&theme=elegant&hide_border=true)<br/>
